@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "fix-face-commit",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}

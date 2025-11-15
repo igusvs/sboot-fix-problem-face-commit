@@ -38,4 +38,20 @@ public class ProdutoEntity {
     public Long getQuantidade() {
         return quantidade;
     }
+
+    public void setIdProduto(Long idProduto) {
+        this.idProduto = idProduto;
+    }
+
+    public void setNomeProduto(String nomeProduto) {
+        this.nomeProduto = nomeProduto;
+    }
+
+    public void setValorProduto(BigDecimal valorProduto) {
+        this.valorProduto = valorProduto;
+    }
+
+    public void setQuantidade(Long quantidade) {
+        this.quantidade = quantidade;
+    }
 }
